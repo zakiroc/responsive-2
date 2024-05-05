@@ -1,0 +1,343 @@
+.nav{
+    background-color:  #2B3844;
+    height: 80px;
+    
+}
+body{
+    background-color: #202C36;
+    
+}
+.h1-1{
+    color: white;
+    font-weight: bold;
+    font-size: 24px;
+    margin-left: 81px;
+    margin-top: 23px;
+    position: absolute;
+}
+.p-1{
+    color: white;
+    margin-left: 1280px;
+    margin-top: 23px;
+    position: absolute;
+    
+}
+i{
+    color: white;
+    margin-left: 1256px;
+    margin-top: 33px;
+}
+
+    
+
+
+input{
+    background-color: #2B3844;
+    width: 480px;
+    height: 56px;
+    margin-top: 60px;
+    margin-left: 50px;
+    position: absolute;
+    color: white;
+    
+
+
+
+
+}
+input::placeholder{
+    position: absolute;
+    margin-left: 50px;
+}
+
+
+
+.card-1{
+    width: 264px;
+    height: 336px;
+    background-color: #2B3844;
+    margin-left: 100px;
+    margin-top: 150px;
+
+
+}
+.h4-1{
+    color: white;
+    margin-left: 20px;
+}
+span{
+    color: grey;
+}
+
+.card-2{
+    width: 264px;
+    height: 336px;
+    background-color: #2B3844;
+    margin-left:460px;
+    margin-top: -334px;
+    position: absolute;
+
+
+}
+.h4-2{
+    color: white;
+    margin-left: 20px;
+}
+span{
+    color: grey;
+}
+
+
+
+
+.card-3{
+    width: 264px;
+    height: 336px;
+    background-color: #2B3844;
+    margin-left:790px;
+    margin-top: -334px;
+    position: absolute;
+
+
+}
+.h4-3{
+    color: white;
+    margin-left: 20px;
+}
+span{
+    color: grey;
+}
+
+
+
+.card-4{
+    width: 264px;
+    height: 336px;
+    background-color: #2B3844;
+    margin-left:1150px;
+    margin-top: -334px;
+    position: absolute;
+
+
+}
+.h4-4{
+    color: white;
+    margin-left: 20px;
+}
+
+
+.card-5{
+    width: 264px;
+    height: 336px;
+    background-color: #2B3844;
+    margin-left: 100px;
+    margin-top: 70px;
+    position: absolute;
+
+
+}
+.h4-5{
+    color: white;
+    margin-left: 20px;
+}
+
+
+.card-6{
+    width: 264px;
+    height: 336px;
+    background-color: #2B3844;
+    margin-left:460px;
+    margin-top: 70px;
+    position: absolute;
+
+
+}
+.h4-6{
+    color: white;
+    margin-left: 20px;
+}
+
+
+.card-7{
+    width: 264px;
+    height: 336px;
+    background-color: #2B3844;
+    margin-left:790px;
+    margin-top: 70px;
+    position: absolute;
+
+
+}
+.h4-7{
+    color: white;
+    margin-left: 20px;
+}
+
+
+.card-8{
+    width: 264px;
+    height: 336px;
+    background-color: #2B3844;
+    margin-left:1150px;
+    margin-top: 70px;
+    position: absolute;
+
+
+}
+.h4-8{
+    color: white;
+    margin-left: 20px;
+}
+
+.div1-{
+    width: 1518px;
+    height: 80px;
+    background-color:  #2B3844;
+
+
+
+}
+.row{
+    flex-direction: column;
+    justify-content: center;
+}
+
+@media (max-width: 425px){
+    .input{
+        width: 343px;
+        height: 48px;
+        position: absolute;
+        margin-left: 20px;
+
+   
+
+    }
+}
+
+
+@media (max-width: 475px){
+    .div1-{
+        width: 375px;
+        background-color: #2B3844 ;
+    
+    
+    
+    }
+    .h1-1{
+        font-size: 14px;
+        margin-top: 30px;
+    }
+    .p-1{
+        font-size: 12px;
+        color: white;
+        justify-content: left;
+        text-align: center;
+    }
+    
+   
+
+    
+}
+
+@media (max-width: 475px){
+   .card-1{
+    justify-content: center;
+    margin: 0 auto;
+    margin-top: 200px;
+   }
+   
+
+    
+}
+
+@media (max-width: 475px){
+    .card-2{
+     justify-content: center;
+     margin: 0 auto;
+     margin-top: 70px;
+     margin-left: 60px;
+    }
+    
+ 
+     
+ }
+
+ @media (max-width: 475px){
+    .card-3{
+     justify-content: center;
+     margin: 0 auto;
+     margin-top: 1170px;
+     margin-left: 60px;
+    }
+    
+ 
+     
+ }
+
+ @media (max-width: 475px){
+    .card-8{
+     justify-content: center;
+     margin: 0 auto;
+     margin-top: 460px;
+     margin-left: 60px;
+    }
+    
+ 
+     
+ }
+
+
+ @media (max-width: 475px){
+    .card-7{
+     justify-content: center;
+     margin: 0 auto;
+     margin-top: 810px;
+     margin-left: 60px;
+    }
+    
+ 
+     
+ }
+
+
+ @media (max-width: 475px){
+    .card-6{
+     justify-content: center;
+     margin: 0 auto;
+     margin-top: 1170px;
+     margin-left: 60px;
+    }
+    
+ 
+     
+ }
+
+
+ @media (max-width: 475px){
+    .card-5{
+     justify-content: center;
+     margin: 0 auto;
+     margin-top: 1530px;
+     margin-left: 60px;
+    }
+    
+ 
+     
+ }
+
+
+ @media (max-width: 475px){
+    .card-4{
+     justify-content: center;
+     margin: 0 auto;
+     margin-top: 1540px;
+     margin-left: 60px;
+    }
+    
+ 
+     
+ }
+
+
+ 
+    
